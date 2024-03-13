@@ -1,0 +1,56 @@
+{
+    "cursos": [
+      {
+        "id": "",
+        "nombre": "",
+        "descripcion": "",
+        "categoria": ""
+      },
+      {
+        "id": "",
+        "nombre": "",
+        "descripcion": "",
+        "categoria": ""
+      }
+    ],
+    "tutores": [
+        {
+          "doc": "",
+          "nombre": "",
+          "ocupacion": "",
+          "telefono": "",
+          "calificacion": ""
+        },
+        {
+          "doc": "",
+          "nombre": "",
+          "ocupacion": "",
+          "telefono": "",
+          "calificacion": ""
+        },
+        {
+          "doc": "",
+          "nombre": "",
+          "ocupacion": "",
+          "telefono": "",
+          "calificacion": ""
+        }
+      ],
+      "aprendiz": [
+        {
+          "id": "",
+          "nombre": "",
+          "telefono": ""
+        },
+        {
+          "id": "",
+          "nombre": "",
+          "telefono": ""
+        },
+        {
+          "id": "",
+          "nombre": "",
+          "telefono": ""
+        }
+      ]
+  }
