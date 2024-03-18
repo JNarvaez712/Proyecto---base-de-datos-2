@@ -1,0 +1,61 @@
+{
+    "usuarios": [
+      {
+        "id": "2295467",
+        "nombre": "Juan Perez",
+        "carrera": "Ingeniería de Sistemas",
+        "semestre": "8",
+        "cursos_asistidos": "2234567",
+        "calificaciones_curso": [
+          {
+            "id_curso": "2234567",
+            "calificacion": 4.5
+          }
+        ],
+        "calificaciones_tutor": [
+          {
+            "id_tutor": "2298673",
+            "calificacion": 4.8
+          }
+        ]
+      },
+      {
+        "id": "2998393",
+        "nombre": "María García",
+        "carrera": "Administración de Empresas",
+        "semestre": "5",
+        "cursos_asistidos": "2348879",
+        "calificaciones_curso": [
+          {
+            "id_curso": "2348879",
+            "calificacion": 3.8
+          }
+        ],
+        "calificaciones_tutor": [
+          {
+            "id_tutor": "2883763",
+            "calificacion": 4.5
+          }
+        ]
+      },
+      {
+        "id": "2229383",
+        "nombre": "Carlos López",
+        "carrera": "Medicina",
+        "semestre": "3",
+        "cursos_asistidos": "3208974",
+        "calificaciones_curso": [
+          {
+            "id_curso": "3208974",
+            "calificacion": 4.2
+          }
+        ],
+        "calificaciones_tutor": [
+          {
+            "id_tutor": "2998373",
+            "calificacion": 4.7
+          }
+        ]
+      }
+    ]
+  }

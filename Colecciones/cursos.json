@@ -1,0 +1,37 @@
+{
+    "cursos": [
+      {
+        "id": "2234567",
+        "nombre": "Introducción a la Historia del Arte",
+        "categoria": "Artes y humanidades",
+        "modalidad": "presencial",
+        "gratuito": "F",
+        "precio": 50,
+        "duracion": 30,
+        "certificado": "V",
+        "calificacion_promedio": 4.5
+      },
+      {
+        "id": "2348879",
+        "nombre": "Matemáticas Básicas",
+        "categoria": "Ciencias básicas",
+        "modalidad": "remoto",
+        "gratuito": "V",
+        "precio": 0,
+        "duracion": 40,
+        "certificado": "F",
+        "calificacion_promedio": 3.8
+      },
+      {
+        "id": "3208974",
+        "nombre": "Programación en Python",
+        "categoria": "Tecnología",
+        "modalidad": "remoto",
+        "gratuito": "F",
+        "precio": 100,
+        "duracion": 60,
+        "certificado": "V",
+        "calificacion_promedio": 4.2
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+    "views": {
+      "por_id": {
+        "map": "function(doc) { if (doc.type === 'usuario' && doc.id) { emit(doc.id, doc); }}"
+      },
+      "por_nombre": {
+        "map": "function(doc) { if (doc.type === 'usuario' && doc.nombre) { emit(doc.nombre, dic); }}"
+      }
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "views": {
+      "por_calif": {
+        "map": "function(doc) { if (doc.type === 'curso' && doc.calif) { emit(doc.calif, doc); }}"
+      },
+      "por_nombre": {
+        "map": "function(doc) { if (doc.type === 'curso' && doc.nombre) { emit(doc.nombre, doc); }}"
+      }
+    }
+  }

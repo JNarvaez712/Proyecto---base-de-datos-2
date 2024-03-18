@@ -1,0 +1,40 @@
+{
+    "tutores": [
+      {
+        "id": "2298673",
+        "nombre": "Ana Martínez",
+        "carrera": "Psicología",
+        "semestre": "10",
+        "calificacionProm": 4.8,
+        "cursos_dictados": [
+          {
+            "id_curso": "2234567"
+          }
+        ]
+      },
+      {
+        "id": "2883763",
+        "nombre": "Pedro Rodríguez",
+        "carrera": "Ingeniería Civil",
+        "semestre": "8",
+        "calificacionProm": 4.5,
+        "cursos_dictados": [
+          {
+            "id_curso": "2348879"
+          }
+        ]
+      },
+      {
+        "id": "2998373",
+        "nombre": "María Gómez",
+        "carrera": "Educación",
+        "semestre": "6",
+        "calificacionProm": 4.7,
+        "cursos_dictados": [
+          {
+            "id_curso": "3208974"
+          }
+        ]
+      }
+    ]
+  }
