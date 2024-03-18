@@ -71,9 +71,9 @@ nuevo_curso = {
 # Crear un nuevo usuario, tutor y curso
 
 a = int(input("Crear:\n"
-              "1.Usuario"
-              "2.Tutor"
-              "3.Curso"))
+              "1.Usuario\n"
+              "2.Tutor\n"
+              "3.Curso\n"))
 
 if (a == 1):
     crear_usuario(nuevo_usuario)
@@ -89,9 +89,9 @@ else:
 # Consultar usuario, tutor y curso por una llave
 
 b = int(input("Consultar por llave:\n"
-              "1.Usuario (Por nombre)"
-              "2.Tutor (Por nombre)"
-              "3.Curso (Por calificación promedio)"))
+              "1.Usuario (Por nombre)\n"
+              "2.Tutor (Por nombre)\n"
+              "3.Curso (Por calificación promedio)\n"))
 
 if (b == 1):
     # Consultar usuario por nombre
